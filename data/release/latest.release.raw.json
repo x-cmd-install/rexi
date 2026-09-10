@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7225,
       "digest": "sha256:60ba1098d48a83c0628381bac03f4979b124f86ba77b5f9e76de04bacdcc0ee8",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2025-10-26T14:26:38Z",
       "updated_at": "2025-10-26T14:26:38Z",
       "browser_download_url": "https://github.com/royreznik/rexi/releases/download/v1.2.1/rexi-1.2.1-py3-none-any.whl"
