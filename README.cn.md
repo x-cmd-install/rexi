@@ -4,7 +4,7 @@
 
 Terminal UI for Regex Testing
 
-![rexi](https://repo.x-cmd.io/rexi.svg)
+![rexi](https://repo.x-cmd.io/rexi.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,13 @@ x install rexi
 - **最新版本**: `v1.2.1` (2025-10-26)
 - **最近提交**: 2026-06-23
 - **Release 含资产**: 2 个
-- **发布时间**: 2025-10-26T14:26:37Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [rexi-1.2.1-py3-none-any.whl](https://github.com/royreznik/rexi/releases/download/v1.2.1/rexi-1.2.1-py3-none-any.whl) | 7.1 KiB | `other` |
+| [rexi-1.2.1.tar.gz](https://github.com/royreznik/rexi/releases/download/v1.2.1/rexi-1.2.1.tar.gz) | 6.0 KiB | `native/unknown` |
 
 ## 流行度
 
@@ -60,4 +66,4 @@ rexi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:07:23Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:42:38Z._
