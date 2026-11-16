@@ -77,9 +77,9 @@
 - repo: nix_unstable
   srcname: rexi
   visiblename: rexi
-  version: 1.2.0
+  version: 1.2.1-unstable-2026-06-23
   origversion: null
-  status: outdated
+  status: ignored
   summary: User-friendly terminal UI to interactively work with regular expressions
   maintainers:
     - gauravghodinde@gmail.com
