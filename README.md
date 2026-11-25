@@ -46,12 +46,12 @@ Total: **510** lines of code across **13** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 360d | 2025-11-29 | 0 | 1 | 0 | 0 | 1 | 1 |
-| last720d | 2024-12-04 | 1 | 2 | 0 | 1 | 1 | 3 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 360d | 2025-11-30 | 0 | 1 | 0 | 0 | 1 | 1 |
+| last720d | 2024-12-05 | 1 | 2 | 0 | 1 | 1 | 3 |
 
 ## Release assets
 
@@ -59,14 +59,6 @@ Total: **510** lines of code across **13** files in the top 5 languages.
 |-------|-----:|--------|
 | [rexi-1.2.1-py3-none-any.whl](https://github.com/royreznik/rexi/releases/download/v1.2.1/rexi-1.2.1-py3-none-any.whl) | 7.1 KiB | `other` |
 | [rexi-1.2.1.tar.gz](https://github.com/royreznik/rexi/releases/download/v1.2.1/rexi-1.2.1.tar.gz) | 6.0 KiB | `native/unknown` |
-
-## Distribution status
-
-Reported by **7** distros on [repology.org](https://repology.org/project/rexi). **3** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `1.2.1-unstable-2026-06-23` | ignored |
 
 ## Improve this data
 
@@ -77,4 +69,4 @@ Install metadata for rexi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:16:05Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:18:45Z._
